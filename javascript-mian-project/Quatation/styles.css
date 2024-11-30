@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-image: url('https://free-3dtextureshd.com/wp-content/uploads/2024/03/48.jpg.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#quote-box {
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.1);
+    width: 500px;
+    margin: 160px auto;
+    background-color: rgba(84, 135, 212, 0.498)
+}
+
+#quote {
+    font-size: 1.5rem;
+    color: rgba(9, 1, 6, 0.868)
+}
+
+#author {
+    margin-top: 10px;
+    color: snow;
+    font-size: 1.2em;
+}
+
+#new-quote {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #4d0e88ee;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    position: relative;
+    color: rgba(217, 200, 200, 0.813);
+
+}
+
+#new-quote:hover {
+    background-color: #4b0ae1;
+    color: snow;
+
+}
